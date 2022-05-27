@@ -1,5 +1,5 @@
 {
-    "name": "Him-Bot",
+    "name": "ᴄʟᴇʀᴀ bot",
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/Captainamarica/TrickyAbhi-Bot",
+ "repository": "https://github.com/Captainamarica/CLERA-Robet-",
  "addons": [
     {
        "options": {
@@ -29,7 +29,7 @@
     "TOKEN": {
        "description": "Your bot token. Get one from @BotFather duh",
        "required": true,
-       "value": "5323448516:AAHFltf1R41M0ASdxFi3np5xM9FNOA1ry84"
+       "value": "5428157047:AAEasB6GsCGjZ9hWxIp9OGGEUObGIuI7xkI"
     },
     "API_ID": {
        "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -55,7 +55,7 @@
     "BOT_NAME": {
        "description": "Insert below your bot, it will appear everywhere",
        "required": true,
-       "value": "@NightVissionStremerBot"
+       "value": "ᴄʟᴇʀᴀ"
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
@@ -64,12 +64,12 @@
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "Techno_Trickop"
+       "value": "@NightVission"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": "https://telegra.ph/file/554341d5c7e0d0dcd2daf.jpg"
+       "value": "https://telegra.ph/file/602da5ebec2d7d65462d1.jpg"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
