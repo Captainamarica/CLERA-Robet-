@@ -20,9 +20,9 @@ OMFO Gimme a star and follow me
     
 # Deployment
     
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Captainamarica/TrickyAbhi-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Captainamarica/CLERA-Robet-"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="400" height="60"/></a></p>
 
 ## Join Here 
-[![Herox](https://telegra.ph/file/b9f38530315136d4bbe7c.jpg)](https://telegram.me/aboutez)
+[![Herox](https://telegra.ph/file/602da5ebec2d7d65462d1.jpg)](https://telegram.me/aboutez)
 
 
