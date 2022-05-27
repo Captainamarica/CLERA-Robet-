@@ -10,7 +10,7 @@ from telegram.ext.dispatcher import DispatcherHandlerStop
 from os.path import isfile
 
 
-HELP_STRINGS = """Hey there! My name is *{} [!](https://telegra.ph/file/45784a10840048fed7df1.jpg)*.
+HELP_STRINGS = """ [✓](https://telegra.ph/file/eb5aaad66d78da2112cce.jpg) Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with. [Updates](t.me/NightVissionSupport) """.format(
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
